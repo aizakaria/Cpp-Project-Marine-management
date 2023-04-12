@@ -1,0 +1,10 @@
+Liste des capitaines : 
+Id membre : id1 Nom : premier  Prenom : capitaine Tonnage : 50
+Liste des seconds : 
+Liste des matelots : 
+Id membre : id1 Nom : premier  Prenom : matelot
+Id membre : id2 Nom : deuxieme  Prenom : matelot
+Id membre : id3 Nom : troisieme  Prenom : matelot
+Id membre : id4 Nom : quatrieme  Prenom : matelot
+Id membre : id5 Nom : cinquieme  Prenom : matelot
+Id membre : id6 Nom : sixieme  Prenom : matelot

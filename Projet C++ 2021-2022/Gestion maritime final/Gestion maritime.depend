@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1641306809 source:c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\main.cpp
+	<iostream>
+	<fstream>
+	"traversee.h"
+	"trajet.h"
+	"navire.h"
+	"voyageur.h"
+	"billet.h"
+	"compagnie.h"
+	"membreequipage.h"
+
+1641304168 source:c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\trajet.cpp
+	"trajet.h"
+	"billet.h"
+	<fstream>
+
+1641300188 c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\trajet.h
+	<vector>
+	<iostream>
+	<list>
+	"traversee.h"
+	"navire.h"
+	"voyageur.h"
+	"membreequipage.h"
+
+1641306508 source:c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\navire.cpp
+	"navire.h"
+	<fstream>
+	"membreequipage.h"
+
+1641305525 c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\navire.h
+	<iostream>
+	<list>
+	<vector>
+	"membreequipage.h"
+
+1641300722 source:c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\membreequipage.cpp
+	"membreequipage.h"
+	<fstream>
+
+1641300563 c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\membreequipage.h
+	<iostream>
+
+1641301179 source:c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\billet.cpp
+	"billet.h"
+
+1641301229 c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\billet.h
+	<iostream>
+	<vector>
+	<list>
+	"trajet.h"
+
+1641306463 source:c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\voyageur.cpp
+	"voyageur.h"
+	"billet.h"
+	<fstream>
+
+1641306183 c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\voyageur.h
+	<iostream>
+	<vector>
+
+1639844980 source:c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\traversee.cpp
+	"traversee.h"
+
+1639844945 c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\traversee.h
+	<iostream>
+	<string>
+	<vector>
+
+1641304036 source:c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\compagnie.cpp
+	"compagnie.h"
+	<fstream>
+
+1641301254 c:\users\z_aki\onedrive\bureau\mes études\2020-2021 dirasa\aoo c++\projet c++ 2021-2022\gestion maritime\compagnie.h
+	<iostream>
+	<vector>
+	<list>
+	"navire.h"
+	"compagnie.h"
+	"trajet.h"
+
+1641342479 source:c:\users\z_aki\onedrive\bureau\gestion maritime\billet.cpp
+	"billet.h"
+
+1641342495 c:\users\z_aki\onedrive\bureau\gestion maritime\billet.h
+	<iostream>
+	<vector>
+	<list>
+	"trajet.h"
+
+1641343883 c:\users\z_aki\onedrive\bureau\gestion maritime\trajet.h
+	<vector>
+	<iostream>
+	<list>
+	"traversee.h"
+	"navire.h"
+	"voyageur.h"
+	"membreequipage.h"
+
+1639844945 c:\users\z_aki\onedrive\bureau\gestion maritime\traversee.h
+	<iostream>
+	<string>
+	<vector>
+
+1641305525 c:\users\z_aki\onedrive\bureau\gestion maritime\navire.h
+	<iostream>
+	<list>
+	<vector>
+	"membreequipage.h"
+
+1641343370 c:\users\z_aki\onedrive\bureau\gestion maritime\membreequipage.h
+	<iostream>
+
+1641343943 c:\users\z_aki\onedrive\bureau\gestion maritime\voyageur.h
+	<iostream>
+	<vector>
+
+1641343159 source:c:\users\z_aki\onedrive\bureau\gestion maritime\main.cpp
+	<iostream>
+	<fstream>
+	"traversee.h"
+	"trajet.h"
+	"navire.h"
+	"voyageur.h"
+	"billet.h"
+	"compagnie.h"
+	"membreequipage.h"
+
+1641301254 c:\users\z_aki\onedrive\bureau\gestion maritime\compagnie.h
+	<iostream>
+	<vector>
+	<list>
+	"navire.h"
+	"compagnie.h"
+	"trajet.h"
+
+1641343470 source:c:\users\z_aki\onedrive\bureau\gestion maritime\membreequipage.cpp
+	"membreequipage.h"
+	<fstream>
+
+1639844980 source:c:\users\z_aki\onedrive\bureau\gestion maritime\traversee.cpp
+	"traversee.h"
+
+1641306463 source:c:\users\z_aki\onedrive\bureau\gestion maritime\voyageur.cpp
+	"voyageur.h"
+	"billet.h"
+	<fstream>
+
+1641336412 source:c:\users\z_aki\onedrive\bureau\gestion maritime\compagnie.cpp
+	"compagnie.h"
+	<fstream>
+
+1641337298 source:c:\users\z_aki\onedrive\bureau\gestion maritime\navire.cpp
+	"navire.h"
+	<fstream>
+	"membreequipage.h"
+
+1641343886 source:c:\users\z_aki\onedrive\bureau\gestion maritime\trajet.cpp
+	"trajet.h"
+	"billet.h"
+	<fstream>
+

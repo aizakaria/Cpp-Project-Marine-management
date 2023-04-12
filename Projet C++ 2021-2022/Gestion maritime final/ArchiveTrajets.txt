@@ -1,0 +1,4 @@
+Liste de tout les trajets :
+Port Depart : Limoges  Port Arrive : Paris Date : Lundi Heure Depart : 15h Heure Arrivee : 20h
+Port Depart : Limoges  Port Arrive : Bordeaux Date : Mardi Heure Depart : 5h Heure Arrivee : 10h
+Port Depart : Limoges  Port Arrive : Toulouse Date : Vendredi Heure Depart : 6h Heure Arrivee : 11h

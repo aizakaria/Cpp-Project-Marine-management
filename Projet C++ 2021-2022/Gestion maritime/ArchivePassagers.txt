@@ -1,0 +1,5 @@
+Liste de tout les passagers :
+Nom : premier  Prenom : insulaire
+Nom : deuxieme  Prenom : insulaire
+Nom : permier  Prenom : normal
+Nom : deuxieme  Prenom : normal
